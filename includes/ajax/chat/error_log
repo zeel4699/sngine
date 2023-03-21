@@ -1,0 +1,2 @@
+[18-Apr-2022 11:16:12 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/cxnwwvpl/ajay-dev.com/sngine/includes/ajax/chat/live.php on line 30
+[20-Apr-2022 02:41:06 Europe/London] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/cxnwwvpl/ajay-dev.com/sngine/includes/functions.php on line 781

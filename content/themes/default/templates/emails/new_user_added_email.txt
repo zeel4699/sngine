@@ -1,0 +1,3 @@
+{$system['system_url']}/?ref={$user->_data['user_name']}
+
+{$system['system_title']} {__("Team")}
